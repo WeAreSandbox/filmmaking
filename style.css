@@ -89,12 +89,6 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 	color:rgba(0,0,0,.6)}.d-bloc .panel .btn-wire,.d-bloc .panel .btn-wire:hover,.l-bloc .btn-wire,.l-bloc .btn-wire:hover{
 	color:rgba(0,0,0,.7);
 	border-color:rgba(0,0,0,.3)}
-/* Row Margin Offsets */
-
-.voffset{
-	margin-top:30px;
-}
-
 /* Bloc text custom styling */
 
 #bloc-1 h2{
@@ -105,15 +99,15 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 	font-weight: 400;
 	font-family: Cardo;
 }
-#bloc-4 h2{
+#bloc-2 h2{
 	font-family: Karla;
 	font-weight: 700;
 }
-#bloc-4 p{
+#bloc-2 p{
 	font-weight: 400;
 	font-family: Cardo;
 }
-#bloc-5 h3{
+#bloc-5 h2{
 	font-family: Karla;
 	font-weight: 700;
 }
@@ -121,11 +115,12 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 	font-weight: 400;
 	font-family: Cardo;
 }
+#bloc-6 h3{
+	font-family: Karla;
+	font-weight: 700;
+}
 #bloc-6 p{
 	font-weight: 400;
-	font-family: Cardo;
-}
-#bloc-7 p{
 	font-family: Cardo;
 }
 #bloc-7 p{
@@ -133,6 +128,10 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 	font-family: Cardo;
 }
 #bloc-8 p{
+	font-family: Cardo;
+}
+#bloc-8 p{
+	font-weight: 400;
 	font-family: Cardo;
 }
 #bloc-9 p{
@@ -144,19 +143,19 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 #bloc-11 p{
 	font-family: Cardo;
 }
-#bloc-12 h2{
-	font-family: Karla;
-	font-weight: 700;
-}
 #bloc-12 p{
 	font-family: Cardo;
 }
-#bloc-13 h3{
+#bloc-13 h2{
 	font-family: Karla;
 	font-weight: 700;
 }
 #bloc-13 p{
 	font-family: Cardo;
+}
+#bloc-14 h3{
+	font-family: Karla;
+	font-weight: 700;
 }
 #bloc-14 p{
 	font-family: Cardo;
@@ -164,14 +163,10 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 #bloc-15 p{
 	font-family: Cardo;
 }
-#bloc-16 h2{
-	font-family: Karla;
-	font-weight: 700;
-}
 #bloc-16 p{
 	font-family: Cardo;
 }
-#bloc-17 h3{
+#bloc-17 h2{
 	font-family: Karla;
 	font-weight: 700;
 }
@@ -193,6 +188,13 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 	font-family: Cardo;
 }
 #bloc-20 h3{
+	font-family: Karla;
+	font-weight: 700;
+}
+#bloc-20 p{
+	font-family: Cardo;
+}
+#bloc-21 h3{
 	font-family: Cardo;
 }
 
@@ -563,6 +565,12 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	text-transform:none;
 	font-weight:bold;
 	margin-top:10%;
+}
+.stagesblock{
+	display:block;
+}
+.stages{
+	margin-top:-150px;
 }
 
 /* = Colour
