@@ -134,7 +134,12 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 	font-weight: 400;
 	font-family: Cardo;
 }
+#bloc-9 h2{
+	font-family: Karla;
+	font-weight: 700;
+}
 #bloc-9 p{
+	font-weight: 400;
 	font-family: Cardo;
 }
 #bloc-10 p{
@@ -194,7 +199,74 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 #bloc-20 p{
 	font-family: Cardo;
 }
-#bloc-21 h3{
+#bloc-21 p{
+	font-family: Cardo;
+}
+#bloc-22 h3{
+	font-weight: 900;
+	font-family: Montserrat;
+}
+#bloc-22 p{
+	font-family: Cardo;
+}
+#bloc-23 h3{
+	font-weight: 900;
+	font-family: Montserrat;
+}
+#bloc-23 p{
+	font-family: Cardo;
+}
+#bloc-24 h3{
+	font-weight: 900;
+	font-family: Montserrat;
+}
+#bloc-24 p{
+	font-family: Cardo;
+}
+#bloc-25 h3{
+	font-weight: 900;
+	font-family: Montserrat;
+}
+#bloc-25 p{
+	font-family: Cardo;
+}
+#bloc-26 h3{
+	font-weight: 400;
+	font-family: Montserrat;
+}
+#bloc-26 p{
+	font-family: Cardo;
+}
+#bloc-27 h3{
+	font-weight: 900;
+	font-family: Montserrat;
+}
+#bloc-27 p{
+	font-family: Cardo;
+}
+#bloc-28 h3{
+	font-weight: 700;
+	font-family: Montserrat;
+}
+#bloc-28 p{
+	font-family: Cardo;
+}
+#bloc-29 h3{
+	font-weight: 900;
+	font-family: Montserrat;
+}
+#bloc-29 p{
+	font-family: Cardo;
+}
+#bloc-30 h3{
+	font-weight: 900;
+	font-family: Montserrat;
+}
+#bloc-30 p{
+	font-weight: 400;
+	font-family: Cardo;
+}
+#bloc-31 h3{
 	font-family: Cardo;
 }
 
@@ -572,6 +644,17 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .stages{
 	margin-top:-150px;
 }
+.button{
+	background-color:rgba(0,0,0,0.0);
+	font-family:"Montserrat";
+	color:#000000;
+	text-transform:uppercase;
+	padding-left:0px;
+}
+.button:hover{
+	background-color:rgba(0,0,0,0.0);
+	color:#000000;
+}
 
 /* = Colour
 -------------------------------------------------------------- */
@@ -604,6 +687,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 
 .bg-tile-d-bg{
 	background-image:url("img/tile-d-bg.png");
+}
+.bg-Screen-Shot-2016-06-01-at-3-17-05-PM{
+	background-image:url("img/Screen%20Shot%202016-06-01%20at%203.17.05%20PM.png");
 }
 
 
